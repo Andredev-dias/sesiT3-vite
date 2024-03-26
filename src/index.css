@@ -21,3 +21,14 @@ h1,h2,h3,h4,h5{
     color: var(--text-title);
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+    transition: all 200ms ease-out;
+}
+
+a:hover{
+    transition: all 200ms ease-in;
+    color: var( --text-title);
+}
+
