@@ -9,7 +9,6 @@ import { MapContainer, TileLayer, Marker, Popup} from 'react-leaflet'
 
 export const Contact = () => {
 const geoData = ({lat: -25.4249069, lng: -49.2749302})
-
     return(
         <>
         <Menu/>
@@ -35,6 +34,5 @@ const geoData = ({lat: -25.4249069, lng: -49.2749302})
             </div>
         </div>
         </>
-       
     )
 }
