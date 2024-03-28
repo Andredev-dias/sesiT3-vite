@@ -48,7 +48,85 @@ function App() {
               text2="Colombo/PR"
         />
           </Tilt>
+          <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+          <Card title="Paisagem 01" 
+                  image={Foto01} 
+                  text1="Texto sobre a paisagem" 
+                  text2="Curitiba/PR"
+            />
+        </Tilt>
+        <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card title="Paisagem 02" 
+              image={Foto02} 
+              text1="Texto sobre a paisagem 02" 
+              text2="Guaratuba/PR"
+        />
+        </Tilt>
+        <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+
+            <Card title="Paisagem 03" 
+              image={Foto03} 
+              text1="Texto sobre a paisagem 03" 
+              text2="Colombo/PR"
+        />
+          </Tilt>
+          <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+          <Card title="Paisagem 01" 
+                  image={Foto01} 
+                  text1="Texto sobre a paisagem" 
+                  text2="Curitiba/PR"
+            />
+        </Tilt>
+        <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card title="Paisagem 02" 
+              image={Foto02} 
+              text1="Texto sobre a paisagem 02" 
+              text2="Guaratuba/PR"
+        />
+        </Tilt>
+        <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+
+            <Card title="Paisagem 03" 
+              image={Foto03} 
+              text1="Texto sobre a paisagem 03" 
+              text2="Colombo/PR"
+        />
+          </Tilt>
+          <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+          <Card title="Paisagem 01" 
+                  image={Foto01} 
+                  text1="Texto sobre a paisagem" 
+                  text2="Curitiba/PR"
+            />
+        </Tilt>
+        <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+        <Card title="Paisagem 02" 
+              image={Foto02} 
+              text1="Texto sobre a paisagem 02" 
+              text2="Guaratuba/PR"
+        />
+        </Tilt>
+        <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
+
+            <Card title="Paisagem 03" 
+              image={Foto03} 
+              text1="Texto sobre a paisagem 03" 
+              text2="Colombo/PR"
+        />
+          </Tilt>
       </section>
+      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
+        <iframe src="https://sino3d.app/ar/2175" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
+      </div>
+      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
+        <iframe src="https://sino3d.app/ar/2171" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
+      </div>
+      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
+        <iframe src="https://sino3d.app/ar/2050" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
+      </div>
+      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
+        <iframe src="https://sino3d.app/ar/2161" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
+      </div>
     </>
   )
 }
