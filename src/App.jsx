@@ -115,18 +115,7 @@ function App() {
         />
           </Tilt>
       </section>
-      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
-        <iframe src="https://sino3d.app/ar/2175" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
-      </div>
-      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
-        <iframe src="https://sino3d.app/ar/2171" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
-      </div>
-      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
-        <iframe src="https://sino3d.app/ar/2050" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
-      </div>
-      <div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%"}}>
-        <iframe src="https://sino3d.app/ar/2161" allowFullScreen frameborder="0" style={{width: "90vw", height: "100vh"}}></iframe>
-      </div>
+     
     </>
   )
 }
