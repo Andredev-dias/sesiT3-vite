@@ -1,3 +1,11 @@
 .wrapCalc{
     margin-top: 80px;
 }
+
+.wrapInputs{
+    width: 100%;
+}
+
+.inputStyle{
+    padding: 10px;
+}
