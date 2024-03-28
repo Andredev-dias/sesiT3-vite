@@ -2,7 +2,6 @@ import style from "./Calc.module.css"
 import Menu from "./components/Menu"
 
 import { useEffect, useState } from "react"
-import { bind } from "leaflet"
 
 export const Calc = () => {
     const [numero1, setNumero1] = useState()
