@@ -54,7 +54,7 @@ export const Calc = () => {
                      value={numero2}
                      onChange={(e) => setNumero2(e.target.value)}
                      />
-                     <button onClick={() => {handleAll(numero1, numero2)}}>Calcular tudo</button>
+                     <button onClick={() => handleAll(numero1, numero2)}>Calcular tudo</button>
                 </div>
                 <div className={style.wrapAllInputs}>
                     <div>
